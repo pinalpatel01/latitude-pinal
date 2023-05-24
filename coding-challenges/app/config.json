@@ -1,0 +1,7 @@
+{
+    "columns_list": {"first_name" : "first_name()", "last_name" : "last_name()", "address" : "address()", "date_of_birth" : "date_of_birth()"},
+    "generated_output_file": "customer_data.csv",
+    "anonymize_columns_list": ["first_name", "last_name", "address"],
+    "anonymized_output_file": "anonymized_customer_data.csv",
+    "N": 1000
+}
