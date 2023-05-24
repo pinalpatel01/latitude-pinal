@@ -39,6 +39,8 @@ columns_list provides the list of columns for the given given file & type of fak
 
 For example :- first_name will use the faker.first_name() to generate the fake data for first_name
 
+in the columns list  there can be any new column name and type of the faker type can be added to make it generic way of generating the data.
+
 generated_output_file:- is the file generated using faker library
 
 anonymize_columns_list :- is the list of columns needs to anonymized
